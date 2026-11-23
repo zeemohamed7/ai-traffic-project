@@ -1,1 +1,4 @@
 *.docx
+*.md
+slides/
+.DS_Store
